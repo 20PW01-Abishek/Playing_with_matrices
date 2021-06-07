@@ -1,2 +1,2 @@
-# C-Package
+# matrices solver
 Calculations with matrices
